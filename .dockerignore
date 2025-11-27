@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+bun.lockb
+.env
+.vite
+frontend-dist
+backend/target
+.git
+.gitignore
